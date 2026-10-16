@@ -1,24 +1,24 @@
-# Hi there, I'm Sudha 👋
+# Hi, I'm Sudha Bhavi 👋
 
-### Senior Full-Stack & Cloud Systems Engineer
-I specialize in building scalable backend systems, distributed microservices, and modern web applications using **.NET Core, React JS, SQL Server, and Cloud Infrastructure (AWS/Azure)**.
-
----
-
-### 🛠️ Tech Stack & Capabilities
-
-- **Languages & Frameworks:** C# | .NET Core | ASP.NET Web API | React JS | JavaScript (ES6+) | Entity Framework Core
-- **Architecture & Backend:** Microservices | RESTful APIs | Event-Driven Systems | System Design | SQL Server
-- **Cloud & DevOps:** Azure | AWS | Docker | CI/CD Pipelines | Git / GitHub Actions
-- **Testing & Quality:** Unit Testing (xUnit/NUnit) | API Testing (Postman) | Code Reviews
+### Lead Software Engineer | .NET Ecosystem & Cloud Architect
+Accomplished Software Engineer with **7+ years of experience** building high-scale Healthcare and FinTech enterprise solutions using **.NET 8/9, React JS, Microservices, Apache Kafka, and Cloud Infrastructure (Azure/AWS)**.
 
 ---
 
-### ⚙️ Core Technical Focus
-- **Scalable Web APIs & Microservices:** Designing high-throughput, low-latency API gateways and decoupled backend services.
-- **Enterprise Application Architecture:** Implementing clean architecture, domain-driven design, and multi-tenant data isolation patterns.
-- **Full-Stack Integration:** Connecting performant .NET microservices with intuitive, responsive React dashboards.
+### 🛠️ Core Capabilities & Tech Stack
+
+- **Backend & APIs:** C# | .NET 8/9 | .NET Core | ASP.NET Web API | Entity Framework Core | RESTful APIs
+- **Frontend Development:** React JS | JavaScript (ES6+) | Progressive Web Apps (PWA) | HTML5 / CSS3[cite: 1]
+- **Architecture & System Design:** Microservices | Event-Driven Architecture (Kafka) | Clean Architecture | SOLID[cite: 1]
+- **Databases & Messaging:** SQL Server | PostgreSQL | Apache Kafka[cite: 1]
+- **Cloud, DevOps & Security:** Azure (App Service) | AWS (S3) | Docker | Jenkins (CI/CD) | OAuth2 | HIPAA Compliance[cite: 1]
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com)
+### 💼 Career Highlights
+- **Associate Technical Lead @ The Garage India:** Led an engineering team of 5–6 developers building a Population Health Management Platform (Bridge) using ASP.NET Core & Azure[cite: 1].
+- **Multi-Cloud Integration @ Softtrends:** Engineered a unified multi-cloud storage platform integrating AWS S3, Azure Blob, Google Cloud, and Apache Kafka real-time sync engines[cite: 2].
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/sudharani-bhavi) | [Email](mailto:sudhabhavi383@gmail.com)[cite: 1]

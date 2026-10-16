@@ -1,4 +1,4 @@
-# Hi, I'm Sudha Bhavi 👋
+# Hi, I'm Sudharani Bhavi 👋
 
 ### Lead Software Engineer | .NET Ecosystem & Cloud Architect
 Accomplished Software Engineer with **7+ years of experience** building high-scale Healthcare and FinTech enterprise solutions using **.NET 8/9, React JS, Microservices, Apache Kafka, and Cloud Infrastructure (Azure/AWS)**.
@@ -21,4 +21,4 @@ Accomplished Software Engineer with **7+ years of experience** building high-sca
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/sudharani-bhavi) | [Email](mailto:sudhabhavi383@gmail.com)[cite: 1]
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/sudharani-bhavi-cincinnati) | [Email](mailto:sudhabhavi383@gmail.com)[cite: 1]

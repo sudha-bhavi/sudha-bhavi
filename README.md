@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Sudha 👋
 
-<!--
-**sudha-bhavi/sudha-bhavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full-Stack & Cloud Systems Engineer
+I specialize in building scalable backend systems, distributed microservices, and modern web applications using **.NET Core, React JS, SQL Server, and Cloud Infrastructure (AWS/Azure)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Capabilities
+
+- **Languages & Frameworks:** C# | .NET Core | ASP.NET Web API | React JS | JavaScript (ES6+) | Entity Framework Core
+- **Architecture & Backend:** Microservices | RESTful APIs | Event-Driven Systems | System Design | SQL Server
+- **Cloud & DevOps:** Azure | AWS | Docker | CI/CD Pipelines | Git / GitHub Actions
+- **Testing & Quality:** Unit Testing (xUnit/NUnit) | API Testing (Postman) | Code Reviews
+
+---
+
+### ⚙️ Core Technical Focus
+- **Scalable Web APIs & Microservices:** Designing high-throughput, low-latency API gateways and decoupled backend services.
+- **Enterprise Application Architecture:** Implementing clean architecture, domain-driven design, and multi-tenant data isolation patterns.
+- **Full-Stack Integration:** Connecting performant .NET microservices with intuitive, responsive React dashboards.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com)

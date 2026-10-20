@@ -1,24 +1,24 @@
 # Hi, I'm Sudharani Bhavi 👋
 
-### Lead Software Engineer | .NET Ecosystem & Cloud Architect
-Accomplished Software Engineer with **7+ years of experience** building high-scale Healthcare and FinTech enterprise solutions using **.NET 8/9, React JS, Microservices, Apache Kafka, and Cloud Infrastructure (Azure/AWS)**.
+### Associate Technical Lead | Senior Software Engineer 
+Accomplished Software Engineer with **6+ years of experience** building high-scale Healthcare and FinTech enterprise solutions using **.NET 8/9, React JS, Microservices, Apache Kafka, and Cloud Infrastructure (Azure/AWS)**.
 
 ---
 
 ### 🛠️ Core Capabilities & Tech Stack
 
 - **Backend & APIs:** C# | .NET 8/9 | .NET Core | ASP.NET Web API | Entity Framework Core | RESTful APIs
-- **Frontend Development:** React JS | JavaScript (ES6+) | Progressive Web Apps (PWA) | HTML5 / CSS3[cite: 1]
-- **Architecture & System Design:** Microservices | Event-Driven Architecture (Kafka) | Clean Architecture | SOLID[cite: 1]
-- **Databases & Messaging:** SQL Server | PostgreSQL | Apache Kafka[cite: 1]
-- **Cloud, DevOps & Security:** Azure (App Service) | AWS (S3) | Docker | Jenkins (CI/CD) | OAuth2 | HIPAA Compliance[cite: 1]
+- **Frontend Development:** React JS | JavaScript (ES6+) | Progressive Web Apps (PWA) | HTML5 / CSS3
+- **Architecture & System Design:** Microservices | Event-Driven Architecture (Kafka) | Clean Architecture | SOLID
+- **Databases & Messaging:** SQL Server | PostgreSQL | Apache Kafka
+- **Cloud, DevOps & Security:** Azure (App Service) | AWS (S3) | Docker | Jenkins (CI/CD) | OAuth2 | HIPAA Compliance
 
 ---
 
 ### 💼 Career Highlights
-- **Associate Technical Lead @ The Garage India:** Led an engineering team of 5–6 developers building a Population Health Management Platform (Bridge) using ASP.NET Core & Azure[cite: 1].
-- **Multi-Cloud Integration @ Softtrends:** Engineered a unified multi-cloud storage platform integrating AWS S3, Azure Blob, Google Cloud, and Apache Kafka real-time sync engines[cite: 2].
+- **Associate Technical Lead @ The Garage India:** Led an engineering team of 5–6 developers building a Population Health Management Platform (Bridge) using ASP.NET Core & Azure.
+- **Multi-Cloud Integration @ Softtrends:** Engineered a unified multi-cloud storage platform integrating AWS S3, Azure Blob, Google Cloud, and Apache Kafka real-time sync engines.
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/sudharani-bhavi-cincinnati) | [Email](mailto:sudhabhavi383@gmail.com)[cite: 1]
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/sudharani-bhavi-cincinnati) | [Email](mailto:sudhabhavi383@gmail.com)
